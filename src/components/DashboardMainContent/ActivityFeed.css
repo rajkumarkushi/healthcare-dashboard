@@ -1,0 +1,10 @@
+
+.activity-bar-container {
+  height: 100px;
+  padding: 10px 0;
+}
+
+.activity-bar {
+  width: 20px;
+  transition: height 0.3s ease;
+}
